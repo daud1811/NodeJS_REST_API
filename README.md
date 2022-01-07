@@ -12,7 +12,7 @@ A RESTful API that can /create/read/update/delete Product and Category data from
 
 ``` 
 //on local
-git clone https://github.com/Adil101078/NodeRestApi
+git clone https://github.com/daud1811/NodeJS_REST_API
 cd NodeRestApi
 npm install
 node app.js
